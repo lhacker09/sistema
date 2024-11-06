@@ -1,0 +1,2 @@
+[13-Aug-2021 23:07:14 UTC] PHP Warning:  Use of undefined constant HOST - assumed 'HOST' (this will throw an Error in a future version of PHP) in /home/u218395737/domains/compartiendocodigos.com/public_html/cc_demos/bendey/Models/Connect.php on line 8
+[13-Aug-2021 23:12:04 UTC] PHP Warning:  Use of undefined constant DB_PASS - assumed 'DB_PASS' (this will throw an Error in a future version of PHP) in /home/u218395737/domains/compartiendocodigos.com/public_html/cc_demos/bendey/Models/Connect.php on line 10
